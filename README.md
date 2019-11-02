@@ -1,4 +1,4 @@
-## 简介
+## 简介改
 
 Clash、Kitsunebi、Mellow、Potatso、Quantumult(X)、Shadowrocket、Pepi(ShadowRay)、Surge 的配置规则文件
 
